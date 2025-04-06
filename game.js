@@ -1,4 +1,5 @@
 // game.js - Hybrid platformer game engine (Desktop + Mobile)
+// Made by Claude.ai and Kevin Demarest all the glory to God
 class Game {
     constructor() {
         this.canvas = document.createElement('canvas');
